@@ -2,7 +2,9 @@
 
 Инициализация:
 
-![Мой кот](image/spark.png)
+![Установка Spark](image/spark.png)
+
+![Архитектура](image/flow.png)
 
 ### II. Ключевые статистики (по текущему датасету)
 
@@ -66,6 +68,17 @@ COVID-19, Pneumonia, Normal, Other.
   – Pneumonia: 54% мужчин, 38% женщин, 8% без указания пола.
   
 ### III. Визуализации и выводы
+
+![Распределение диагнозов](image/Diagnoses.png)
+
+![Распределение по возрастным группам](image/Age_distribution.png)
+
+![Распределение диагнозов](image/Distribution_of_diagnoses.png)
+
+![Количество исследований](image/Scope_of_research.png)
+
+
+
 
 **Выводы по ключевым статистикам датасета**
 
